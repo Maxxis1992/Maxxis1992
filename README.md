@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maxxis1992
+- 👀 I’m interested in computers and cars
+- 🌱 I’m currently learning Python and Java
